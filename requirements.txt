@@ -1,0 +1,8 @@
+Django==1.7.1
+piprot==0.8.2
+psycopg2==2.5.4
+requests-futures==0.9.5
+six==1.8.0
+sqlparse==0.1.13
+wsgiref==0.1.2
+xworkflows==1.0.4
